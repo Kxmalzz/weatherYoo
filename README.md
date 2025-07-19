@@ -51,7 +51,9 @@ A weather forecast web application built using the *MERN stack* (MongoDB, Expres
 
 # WeatherPage
 <img width="1843" height="901" alt="image" src="https://github.com/user-attachments/assets/d785f6cd-3f18-43c4-9edf-505942407baa" />
+
 <img width="1733" height="910" alt="image" src="https://github.com/user-attachments/assets/8656399a-bc8b-4324-a47c-9f6586f8945e" />
+
 <img width="1807" height="901" alt="image" src="https://github.com/user-attachments/assets/c6bba002-8eef-4672-b90a-e9e66f21e0fe" />
 
 # Author
