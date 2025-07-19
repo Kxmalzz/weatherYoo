@@ -2,7 +2,14 @@
 A weather forecast web application built using the *MERN stack* (MongoDB, Express.js, React, Node.js) that allows users to register/login and check live weather conditions based on city input.
 
 # Table of content
-
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Clone the repository](#clone-the-repository)
+- [Setup backend](#setup-backend)
+- [Setup frontend](#setup-frontend)
+- [Screenshots](#screenshots)
+- [Author](#author)
+- 
 # Features
 - 🔐 User Authentication (Login/Register)
 - 🌍 City-based Weather Search
@@ -17,13 +24,31 @@ A weather forecast web application built using the *MERN stack* (MongoDB, Expres
 - HTTP Client: Axios
 - Weather API: OpenWeatherMap API (or whichever you're using)
 
+# Clone the repository
+- git clone https://github.com/your-username/weatherYoo.git
+- cd weatherYoo
+
+# Setup backend
+- cd server
+- install npm
+- node server.js
+
+# Setup frontend
+- cd client
+- npm install
+- npm start
+- make sure MongoDB compass is running locally
+
 # Screenshots
 # Signup
 <img width="1828" height="834" alt="image" src="https://github.com/user-attachments/assets/9057f2ba-60ff-4433-9be2-fae192add1a9" />
+
 # Signin
 <img width="1827" height="829" alt="image" src="https://github.com/user-attachments/assets/59310a65-0705-4b10-a9f5-de8181c9759b" />
+
 # HomePage
 <img width="1827" height="858" alt="image" src="https://github.com/user-attachments/assets/2dbb29f6-afac-447d-9265-1caf8402aa2a" />
+
 # WeatherPage
 <img width="1843" height="901" alt="image" src="https://github.com/user-attachments/assets/d785f6cd-3f18-43c4-9edf-505942407baa" />
 <img width="1733" height="910" alt="image" src="https://github.com/user-attachments/assets/8656399a-bc8b-4324-a47c-9f6586f8945e" />
